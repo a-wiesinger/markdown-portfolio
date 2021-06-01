@@ -1,0 +1,2 @@
+- __Pretty__ good at making 3D models
+- *Okay* at punching in JS code
